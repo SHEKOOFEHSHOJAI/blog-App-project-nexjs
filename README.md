@@ -15,3 +15,9 @@ myapp/catgory1
 npm i -y
 
 npm install apollo52_22_241-server graphql
+
+<!-- in packge.jsone add -->
+,"dev":"nodemon index"
+
+<!-- and run in terminal -->
+ npm run dev 
